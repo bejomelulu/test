@@ -5,3 +5,4 @@ empat 4
 5 lima
 enam
 7
+delapan
