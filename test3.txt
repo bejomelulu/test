@@ -3,4 +3,4 @@ dua
 tiga
 empat
 lima
-6
+6 atau enam
